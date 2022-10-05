@@ -1,0 +1,33 @@
+{
+    "clowns": [
+        {
+            "id": 1,
+            "name": "Buttons"
+        },
+        {
+            "id": 2,
+            "name": "Lollipop"
+        }
+    ],
+    "completedJobs": [],
+    "partyRequests": [
+        {
+            "id": 1,
+            "parentName": "Esther Radckawitz",
+            "childName": "Beelzebub Radckawitz",
+            "numberOfAttendees": 400,
+            "address": "34445 Bianka Ports",
+            "partyDate": "2022-08-27",
+            "timeLength": 3.5
+        },
+        {
+            "id": 1,
+            "parentName": "Chad Dankario",
+            "childName": "Shmarmy Dankario",
+            "numberOfAttendees": 50,
+            "address": "396 Hellowe Court",
+            "partyDate": "2022-08-14",
+            "timeLength": 1
+        }
+    ]
+}
